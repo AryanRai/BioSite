@@ -1,4 +1,3 @@
-# Meu LinkTree
+#Dynamic Link tree alternative 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/lukassorth/pen/gOmYNWM](https://codepen.io/lukassorth/pen/gOmYNWM).
-
+Dynamic links using firebase realtime database.
